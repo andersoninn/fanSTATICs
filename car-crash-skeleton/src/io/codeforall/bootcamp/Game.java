@@ -15,7 +15,6 @@ public class Game {
     private int delay;
 
     public Game(int cols, int rows, int delay) {
-
         Field.init(cols, rows);
         this.delay = delay;
 

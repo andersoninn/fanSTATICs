@@ -1,16 +1,18 @@
 package io.codeforall.bootcamp.cars;
 
+import io.codeforall.bootcamp.field.Position;
+
 public class Opel extends Car{
-    public String name;
+    public String brand;
 
     public Opel(){
-        this.name = "O";
+        this.brand = "Opel";
     }
     @Override
     public String toString(){
         if(super.isCrashed()){
-        return"C";
+        return brand = "C";
         }
-        return "O";
+        return this.brand = "O";
     }
 }

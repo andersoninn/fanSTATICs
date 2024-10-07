@@ -3,16 +3,16 @@ package io.codeforall.bootcamp.cars;
 
 public class Peugeot extends Car{
 
-    public String name;
+    public String brand;
 
     public Peugeot(){
-        this.name = "P";
+        this.brand = "Peugeot";
     }
     @Override
     public String toString(){
         if(super.isCrashed()){
-            return"C";
+            return brand = "C";
         }
-        return "P";
+        return this.brand = "P";
 }
 }

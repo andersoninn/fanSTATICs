@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/car-crash-skeleton/car-crash-skeleton.iml" filepath="$PROJECT_DIR$/car-crash-skeleton/car-crash-skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fanSTATICs.iml" filepath="$PROJECT_DIR$/.idea/fanSTATICs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-vs-tests-skeleton/java-vs-tests-skeleton.iml" filepath="$PROJECT_DIR$/java-vs-tests-skeleton/java-vs-tests-skeleton.iml" />
+    </modules>
+  </component>
+</project>

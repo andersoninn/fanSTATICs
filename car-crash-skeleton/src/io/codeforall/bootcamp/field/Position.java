@@ -11,7 +11,7 @@ public class Position {
     }
 
     private int direction() {
-        int direction = (int) (Math.random() * 2); // getCol// || getRow
+        int direction = (int) (Math.random() * 2); // getCol || getRow
         return direction;
     }
 
@@ -43,5 +43,17 @@ public class Position {
         }
         return row;
 
+    }
+
+
+    public void move(){
+    }
+    public void moveLeft(){
+    }
+
+
+    public boolean comparePosition(){
+        //this.col && this.row == this.getCol() && this.getRow();
+        return true;
     }
 }
