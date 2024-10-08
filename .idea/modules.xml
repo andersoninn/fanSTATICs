@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/car-crash-skeleton/car-crash-skeleton.iml" filepath="$PROJECT_DIR$/car-crash-skeleton/car-crash-skeleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/fanSTATICs.iml" filepath="$PROJECT_DIR$/.idea/fanSTATICs.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-vs-tests-skeleton/java-vs-tests-skeleton.iml" filepath="$PROJECT_DIR$/java-vs-tests-skeleton/java-vs-tests-skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sniper-elite-no-interfaces/sniper-elite-no-interfaces.iml" filepath="$PROJECT_DIR$/sniper-elite-no-interfaces/sniper-elite-no-interfaces.iml" />
     </modules>
   </component>
 </project>
