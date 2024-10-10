@@ -19,6 +19,7 @@ public class Char implements KeyboardHandler {
         this.name = name;
         picture = new Picture(500, 500, "rsc/moveDown0.png");
         picture.draw();
+        picture.grow(8,8);
         initKeyboard();
     }
 
