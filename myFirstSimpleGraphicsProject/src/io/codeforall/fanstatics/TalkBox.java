@@ -11,5 +11,7 @@ public class TalkBox {
         talkBox.setColor(Color.LIGHT_GRAY);
         talkBox.fill();
 
+        Rectangle talkBoxBorder
+
     }
 }
