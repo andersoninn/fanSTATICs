@@ -6,7 +6,7 @@ public class Background{
     private Picture pictureBg;
 
     public Background(){
-        pictureBg = new Picture(10, 10,"rsc/background.jpg" );
+        pictureBg = new Picture(0, 0,"rsc/background.jpg" );
         pictureBg.draw();
     }
 }
