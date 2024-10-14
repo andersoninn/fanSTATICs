@@ -1,5 +1,9 @@
 package gameManager;
 
+import java.awt.*;
+import java.util.ArrayList;
+import java.util.List;
+
 //7. Classe GameWorld
 //   Gerencia todos os elementos do jogo, como o jogador, inimigos, projéteis, etc.
 public class GameWorld {
