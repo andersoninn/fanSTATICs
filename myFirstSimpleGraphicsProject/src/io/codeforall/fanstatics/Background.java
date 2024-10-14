@@ -8,5 +8,6 @@ public class Background{
     public Background(){
         pictureBg = new Picture(0, 0,"rsc/background.jpg" );
         pictureBg.draw();
+
     }
 }
