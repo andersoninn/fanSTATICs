@@ -1,10 +1,11 @@
 package io.codeforall.bootcamp.bqueue;
 
 import java.util.LinkedList;
+import java.util.Queue;
 
 public class BQueue2<T> {
-    int limit;
-    LinkedList<Pizza> pizzasInQueue = new LinkedList<Pizza>();
+    private final Queue<Pizza> pizzasInQueue = new LinkedList<Pizza>();
+    private final int limit;
 
     public BQueue2(int limit) {
         this.limit = limit;
@@ -31,7 +32,7 @@ public class BQueue2<T> {
             pizzasInQueue.remove();
             System.out.println("Agora temos " + pizzasInQueue.size());
             notifyAll();
-            
+
             if (pizzasInQueue.isEmpty()) {
                 try {
                     wait();

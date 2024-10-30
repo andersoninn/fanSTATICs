@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5702e9f8-35ce-45d8-b206-7379b3c69a2c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fanSTATICs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/.idea/libraries/simple_graphics_0_2_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/GAME.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/ControlStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/GameObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/GameWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/InputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/Projectile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/SoundManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAME/src/gameManager/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordHistogram/src/io/codeForAll/fanSTATICs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/WordHistogram/src/io/codeForAll/fanSTATICs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstSimpleGraphicsProject/rsc/moveLeft1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstSimpleGraphicsProject/rsc/moveLeft2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFirstSimpleGraphicsProject/src/io/codeforall/fanstatics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/myFirstSimpleGraphicsProject/src/io/codeforall/fanstatics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-consumer-skeleton/src/io/codeforall/bootcamp/bqueue/BQueue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer-consumer-skeleton/src/io/codeforall/bootcamp/bqueue/BQueue2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,15 +37,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/codecadet/Documents/fanSTATICs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/codecadet/Documents/fanSTATICs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +56,7 @@
       <updated>1728405582966</updated>
       <workItem from="1728405584180" duration="192000" />
       <workItem from="1728405938084" duration="12000" />
+      <workItem from="1730124744953" duration="11000" />
     </task>
     <servers />
   </component>

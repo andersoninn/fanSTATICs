@@ -17,6 +17,7 @@ public class Main {
         rectangle.fill();
 
 
+
         Background bgPattern = new Background();
        // TalkBox talkBox = new TalkBox();
 
